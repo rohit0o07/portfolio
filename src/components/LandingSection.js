@@ -17,7 +17,7 @@ const LandingSection = () => {
       <VStack spacing={4}>
         <Avatar size="4x4" src={image} width={20} height={20}/>
         <Heading as="h1" size="xl" color="white">
-          Hello, I am Rohit!
+          Hello, I am Hamilpur Rohit!
         </Heading>
         <h2>A front End Developer Specialized in React</h2>
 
